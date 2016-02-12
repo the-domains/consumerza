@@ -1,0 +1,28 @@
+name: consumerza
+favicon: null
+layout_spectrum: 0.9853221739176661
+typography_spectrum: 0.999463684624061
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.23707493534311652
+  lightness: 0.08605753630399704
+  saturation: 0.35381371062248945
+  rhythmicContrast: 0.11266249907203019
+purpose: []
